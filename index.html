@@ -14,6 +14,12 @@
 
     
     <script src="https://use.fontawesome.com/0e46e58ec0.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js"></script>
+    <script>
+        function onSubmit(token) {
+            document.getElementById("demo-form").submit();
+        }
+    </script>
 
   </head>
   <body>
@@ -373,7 +379,7 @@
 					</select>
 					<p class="join-text-1">¿Deseas añadir más información?</p>
 					<textarea   name="body"></textarea><br></br>
-					<button type="submit" class="join-button" value="Send">Únete Ahora</button>
+					<button type="submit" class="join-button g-recaptcha" data-sitekey="6LdzudEdAAAAAKPYSqDcKeI_f8JawNt8R1bH31_X" data-callback="onSubmit" data-action="submit" value="Send">Únete Ahora</button>
 					<p class="join-text-1">Recibirás una respuesta en menos de 24 horas</p>
 				</div>
 			</form>
