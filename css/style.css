@@ -82,7 +82,7 @@ body
     content: " \f004  \f004";
     font-family: FontAwesome;
     font-size: 22px;
-    color: #EE6059;
+    color: #63FDE5;
     position: absolute;
     left: 50%;
     top: 130%;
@@ -113,13 +113,13 @@ body
 }
 .fusion-icon:hover
 {
-    color: #EE6059;
+    color: #63FDE5;
 }
 
 .fusion-icon .icon .fa
 {
     font-size: 50px;
-    border: 2px solid #EE6059;;
+    border: 2px solid #63FDE5;;
     border-radius: 100%;
     width: 100px;
     height: 100px;
@@ -135,14 +135,14 @@ body
 }
 .fusion-icon:hover
 {
-     color: #EE6059;
+     color: #63FDE5;
 }
 .fusion-icon h4:after
 {
    content: " \f00d";
     font-family: FontAwesome;
     font-size: 17px;
-    color: #EE6059;
+    color: #63FDE5;
     position: absolute;
     left: 50%;
     top: 170%;
@@ -323,7 +323,7 @@ body
 }
 .trainers-social .fa:hover
 {
-    color: #EE6059;
+    color: #63FDE5;
 }
 
 
@@ -351,7 +351,7 @@ body
 {
     content: "\f005 \f005";
     font-family: FontAwesome;
-    color: #EE6059;
+    color: #63FDE5;
     position: absolute;
     left: 50%;
     top: 75%;
@@ -412,7 +412,7 @@ body
 }
 .result-text-3
 {
-    color: #EE6059;
+    color: #63FDE5;
     font-size: 24px;
     margin-top: 20px;
 }
@@ -429,11 +429,11 @@ body
 }
 #goals
 {
-    background: #D05F59;
+    background: #63FDE5;
 }
 .goals-text
 {
-    color: #fff;
+    color: #0f221b;
     
 }
 .goals-text-1
@@ -450,10 +450,10 @@ body
 {
     width: 220px;
     height: 60px;
-    border: 1px solid #fff;
+    border: 1px solid #0f221b;
     box-shadow: none;
     background: transparent;
-    color: #fff;
+    color: #0f221b;
     font-size: 24px;
     text-transform: uppercase;
     margin-top: 20px;
@@ -507,7 +507,7 @@ body
     box-shadow: none;
     font-size: 24px;
     text-transform: uppercase;
-    background: #EE6059;
+    background: #63FDE5;
     color: #fff;
     border: none;
 }
@@ -565,7 +565,7 @@ footer
     font-size: 20px;
     width: 40px;
     height: 40px;
-    background: #EE6059;
+    background: #63FDE5;
     position: relative;
 }
 .fa-facebook1::before, .fa-twitter1::before, .fa-instagram1::before
@@ -653,7 +653,7 @@ footer
 {
     width: 70%;
     height: 500px;
-    background: #EE6059;
+    background: #63FDE5;
     opacity: 0;
     margin: 0 auto;
     position: absolute;
