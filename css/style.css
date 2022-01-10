@@ -80,7 +80,7 @@ body
 .title:after
 {
     content: " \f004  \f004";
-    font-family: agencyfb;
+    font-family: agency;
     font-size: 22px;
     color: #63FDE5;
     position: absolute;
