@@ -27,6 +27,8 @@ body
 }
 .main-text
 {
+    font-family: Agency FB;
+    font-weight: bold;
     font-size: 100px;
     line-height: 132px;
     text-transform: uppercase;
@@ -35,22 +37,26 @@ body
 }
 .main-text-1
 {
+    font-family: Agency FB;
+    font-weight: bold;    
     font-size: 22px;
     line-height: 24px;
     margin: 0 auto 70px;
     letter-spacing: 1px;
 }
-.main-btn a
+.main-btn
 {
-    color: #fff;
+    font-family: Agency FB;
+    font-weight: bold; 
+    color: white;
 }
 .btn-join
 {
     background: transparent;
     width: 250px;
     height: 70px;
-    border: 2px solid #fff;
-    color: #fff;
+    border: 2px solid #63FDE5;
+    color: #63FDE5;
     box-shadow: none;
     font-size: 24px;
     text-transform: uppercase; 
@@ -75,6 +81,8 @@ body
     text-transform: uppercase;
     font-weight: bold;
     position: relative;
+    font-family: Agency FB;
+    font-weight: bold; 
     color: #fff;
 }
 .title:after
@@ -90,6 +98,8 @@ body
 }
 .world-text
 {
+    font-family: Agency FB;
+    font-weight: bold;
     color: #8CA9A9;
     font-size: 18px;
     margin: 80px auto 70px;
@@ -100,6 +110,8 @@ body
 /* Sekcja fusion */
 #fusion
 {
+        font-family: Agency FB;
+    font-weight: bold; 
     background: #121315;
 }
 .fusion-row
@@ -206,6 +218,8 @@ body
 /* Sekcja streng */
 #streng
 {
+        font-family: Agency FB;
+    font-weight: bold; 
     background: #1E2123;
 }
 .streng-con
@@ -269,6 +283,8 @@ body
 /* Sekcja trainers */
 #trainers
 {
+        font-family: Agency FB;
+    font-weight: bold; 
     background: #1E2123;
     
 }
@@ -329,7 +345,7 @@ body
 
 /* Sekcja ali */
 #ali
-{
+{ 
     background-image: url('../img/ali2.jpg');
     background-size: cover;
     background-repeat: no-repeat;
@@ -337,6 +353,8 @@ body
 }
 .ali-text
 {
+        font-family: Agency FB;
+    font-weight: bold; 
     margin: 150px auto 70px;
     position: relative;
     color: #fff;
@@ -368,6 +386,8 @@ body
 /* Sekcja result */
 #result
 {
+        font-family: Agency FB;
+    font-weight: bold; 
     background: #25292B;
 }
 .row-r
@@ -433,6 +453,8 @@ body
 }
 .goals-text
 {
+        font-family: Agency FB;
+    font-weight: bold; 
     color: #0f221b;
     
 }
@@ -468,6 +490,8 @@ body
 }
 #join
 {
+        font-family: Agency FB;
+    font-weight: bold; 
     background: #25292B;
 }
 .join-text
@@ -517,6 +541,8 @@ body
 /* Sekcja ftr */
 #ftr
 {
+        font-family: Agency FB;
+    font-weight: bold; 
     background: #1E2123;
 }
 .row-f
@@ -630,7 +656,7 @@ footer
     content: "\f0c9";
     font-family: FontAwesome;
     font-size: 50px;
-    color: #fff;
+    color: #63FDE5;
     position: absolute;
     top: 50%;
     left: 50%;
