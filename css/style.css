@@ -22,7 +22,7 @@ body
     margin: 0 auto;
     display: block;
     overflow: auto;
-    color: #000000;
+    color: #ffffff;
     
 }
 .main-text
@@ -48,7 +48,7 @@ body
 {
     font-family: Agency FB;
     font-weight: bold; 
-    color: white;
+    color: black;
 }
 .btn-join
 {
